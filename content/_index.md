@@ -9,7 +9,7 @@ footer = false
 
 # If you don't want to display id/bio/avatar, simply comment out that line
 name = "nescience"
-bio = "experimenting with writing"
+<!-- bio = "" -->
 links = []
 
 # Show a few recent posts in home page
